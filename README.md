@@ -1,13 +1,13 @@
-### Devops Engineer 👋
-### Working on Technologies like
-## Configuration Management: Ansible
-## Source Code Management: Git
-## CI: Jenkins
-## Containerization: Docker
-## CD: Jenkins
-## Package Manager: Helm
-## Container Orchestration: Kubernetes
-## Cloud Technologies: Amazom Web Services 
+# Devops Engineer 👋
+## Working on Technologies like
+### Configuration Management: Ansible
+### Source Code Management: Git
+### CI: Jenkins
+### Containerization: Docker
+### CD: Jenkins
+### Package Manager: Helm
+### Container Orchestration: Kubernetes
+### Cloud Technologies: Amazom Web Services 
 
 <!--
 **vishu77/vishu77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
